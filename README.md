@@ -1,4 +1,4 @@
- Machine Learning Mini Projects  🤖
+# Machine Learning Mini Projects  🤖
 
 Three beginner-friendly ML notebooks covering classification and regression, built in Google Colab with pandas, scikit-learn, and matplotlib.
 
